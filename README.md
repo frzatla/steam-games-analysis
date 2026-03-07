@@ -17,7 +17,8 @@ https://www.kaggle.com/datasets/fronkongames/steam-games-dataset/data
 **<h3> Conclusion </h3>**
 
 <h4> 1. Genre Performance </h4>
-- Highest Satisfaction: Casual and Indie games hold the highest average ratings (0.77), driven by their easy-to-play, complete experiences. <br>
+- Highest Satisfaction: Casual and Indie games hold the highest average ratings (0.77), driven by their easy-to-play, complete experiences. <br> 
+
 - Lowest Satisfaction: Massively Multiplayer (MMO) games are the lowest-rated (0.64), heavily penalized by players for bugs, server problems, and long-term content droughts. <br>
 - Yearly Releases: Annualized Sports and Racing franchises suffer from low ratings, often review-bombed by players who feel the yearly releases lack meaningful updates. <br>
 - Market Saturation: While the Action genre has the third-highest volume of releases, its lower average rating suggests the market is flooded with lower-quality titles that drag down overall player satisfaction. <br>
