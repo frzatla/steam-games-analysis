@@ -15,9 +15,9 @@ Covers game up until the release year of 2025. <br>
 https://www.kaggle.com/datasets/fronkongames/steam-games-dataset/data
 
 **<h3> Attributes / Features: </h3>**
-**AppID**: Unique identifier for each game on the Steam store.
-**Name**: The game's title.
-**Release date**: The date the game was released on Steam.
+**AppID**: Unique identifier for each game on the Steam store. <br>
+**Name**: The game's title.<br>
+**Release date**: The date the game was released on Steam.<br>
 **Estimated owners**: A range estimating the number of people who own the game (for example, "0 - 20000", "20000 - 50000").
 **Peak CCU**: The peak number of Concurrent Users (players) in the game on the previous day.
 **Required age**: The minimum age required to play the game (0 indicates all ages).
