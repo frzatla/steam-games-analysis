@@ -1,4 +1,4 @@
-**<h1> Steam Games Market Analysis </h1>
+**<h1> Steam Games Market Analysis </h1>**
 
 **<h3> Project Overview </h3>**
 
