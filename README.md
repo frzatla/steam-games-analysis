@@ -16,6 +16,8 @@ The dataset is created by Martin Bustos on Kaggle. Data is collected from both t
 It covers games up until the release year of 2025.
 [Steam Games Dataset on Kaggle](https://www.kaggle.com/datasets/fronkongames/steam-games-dataset/data)
 
+---
+
 ### Conclusion
 
 #### 1. Genre Performance
@@ -34,6 +36,8 @@ It covers games up until the release year of 2025.
 * **Summer Sales Spike:** Average sales volume spikes from June through August, aligning closely with the Steam Summer Sale.
 * **The Ideal Month:** Mathematically, August is the best month to launch. It provides the highest ratio of average owners per competitor, allowing new releases to capture high player interest while facing the lowest number of competing launches.
 * **Real-World Factors:** Developers must still weigh this historical advantage against real-time factors like major competitor release dates and current internet trends.
+
+---
 
 ### Actionable Insights for Game Developers
 * **Price Confidently:** If your game offers a complete, polished experience, price it in the $30–$60 range rather than underpricing it. The data shows players pay for perceived quality.
