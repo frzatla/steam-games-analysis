@@ -5,9 +5,9 @@
 This project analyzes the Steam Games dataset from Kaggle to identify what drives video game success on the platform. By exploring genres, pricing models, and release timing, the analysis uncovers how these specific factors impact player engagement and estimated sales as of December 2025.
 
 **<h3> Key Objectives: </h3>**
-- Identify correlations between Genre and User Ratings.
-- Identify the optimal price range that maximizes sales for Indie vs. AAA titles.
-- Determine the most optimal month to release a game.
+* Identify correlations between Genre and User Ratings.
+* Identify the optimal price range that maximizes sales for Indie vs. AAA titles.
+* Determine the most optimal month to release a game.
 
 **<h3> Data Source: </h3>**
 Dataset is created by Martin Bustos on Kaggle. Data is collected from both the API provided by Steam themselves and Steam Spy, a Steam stats service based on Web API provided by Valve. <br>
