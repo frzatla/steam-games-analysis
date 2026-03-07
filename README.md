@@ -16,8 +16,25 @@ https://www.kaggle.com/datasets/fronkongames/steam-games-dataset/data
 
 **<h3> Conclusion </h3>**
 
-User satisfaction on Steam favors complete, easy-to-play experiences, with Casual and Indie games holding the highest average ratings (0.77). Conversely, Massively Multiplayer (MMO) games are the lowest-rated genre (0.64), heavily penalized by players for bugs, server problems, and long-term content droughts. Annualized Sports and Racing franchises also suffer from low ratings, often review-bombed by players who feel the yearly releases lack meaningful updates. Furthermore, while the Action genre has the third-highest volume of releases, its lower average rating suggests the market is saturated with lower-quality titles that drag down overall player satisfaction.
+### 1. Genre Performance
+* **Highest Satisfaction:** Casual and Indie games hold the highest average ratings (0.77), driven by their easy-to-play, complete experiences.
+* **Lowest Satisfaction:** Massively Multiplayer (MMO) games are the lowest-rated (0.64), heavily penalized by players for bugs, server problems, and long-term content droughts.
+* **Yearly Releases:** Annualized Sports and Racing franchises suffer from low ratings, often review-bombed by players who feel the yearly releases lack meaningful updates.
+* **Market Saturation:** While the Action genre has the third-highest volume of releases, its lower average rating suggests the market is flooded with lower-quality titles that drag down overall player satisfaction.
 
-Financially, the $30–$60 tier is the optimal price point for both Indie and AAA studios, generating the highest median owners and average base revenue. Even though the vast majority of Indie games are priced under $10, this strategy yields the lowest base revenue. Indie developers who price their games in the $30–$60 range earn nearly three times more on average than those charging $15–$30. Pushing the price above $60 causes a sharp drop in sales volume, showing that expensive deluxe editions rarely make up for the lost buyers. However, these base revenue metrics do not account for in-game purchases or DLCs, which often supplement the income of cheaper or free-to-play titles.
+### 2. Optimal Pricing Strategy
+* **The Sweet Spot:** The $30–$60 tier is the optimal price point for both Indie and AAA studios, generating the highest median owners and average base revenue.
+* **Underselling:** The vast majority of Indie games are priced under $10, yet this strategy yields the lowest base revenue. Indie developers who price their games in the $30–$60 range earn nearly three times more on average than those charging $15–$30.
+* **The Price Ceiling:** Pushing the price above $60 causes a sharp drop in sales volume, showing that expensive deluxe editions rarely make up for the lost buyers.
+* **Revenue Caveat:** Base revenue metrics do not account for in-game purchases or DLCs, which often supplement the income of cheaper or free-to-play titles.
 
-When it comes to release timing, average sales volume spikes from June through August, aligning closely with the Steam Summer Sale. Mathematically, August is the ideal month to launch a game. It provides the highest ratio of average owners per competitor, allowing new releases to capture high player interest while facing the lowest number of competing launches. Still, developers must weigh this historical advantage against real-time factors like major competitor release dates and current internet trends.
+### 3. Strategic Release Timing
+* **Summer Sales Spike:** Average sales volume spikes from June through August, aligning closely with the Steam Summer Sale.
+* **The Ideal Month:** Mathematically, August is the best month to launch. It provides the highest ratio of average owners per competitor, allowing new releases to capture high player interest while facing the lowest number of competing launches.
+* **Real-World Factors:** Developers must still weigh this historical advantage against real-time factors like major competitor release dates and current internet trends.
+
+### 💡 Actionable Insights for Game Developers
+* **Price Confidently:** If your game offers a complete, polished experience, price it in the $30–$60 range rather than racing to the bottom. The data shows players pay for perceived quality.
+* **Prioritize Polish:** Releasing a bug-free, feature-complete game protects your user rating much better than releasing an unfinished live-service game with a roadmap.
+* **Target Late Summer:** Aim for an August launch to capitalize on lingering Summer Sale traffic while avoiding the crowded AAA holiday release window in October and November.
+* **Stand Out in Saturated Genres:** If developing an Action game, ensure you have a strong secondary genre or unique mechanic to cut through the high volume of competing daily releases.
