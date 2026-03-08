@@ -48,6 +48,12 @@ Genres such as Casual & Indie receive the highest average ratings from players o
 * Base revenue metrics do not account for in-game purchases or DLCs, which often supplement the income of cheaper or free-to-play titles.
 
 #### 3. Strategic Release Timing
+
+| Release Volume vs Average Sales (Estimated Owners) | Monthly Average Owners per Competitor |
+| ------------------- | ------------------ |
+| <img width="500" height="590" alt="image" src="assets/ReleaseVolumevsAverageSalesBarLine.png" /> | <img width="500" height="590" alt="image" src="assets/MonthlyAverageOwnersperCompetitorpng.png" /> |
+
+
 * Average sales volume **spikes from June through August**, aligning closely with the Steam Summer Sale.
 * Mathematically, **August is the best month to launch**. It provides the **highest ratio of average owners per competitor**, allowing new releases to capture high player interest while facing the lowest number of competing launches.
 * Developers must still weigh this advantage against real-time factors like major competitor release dates and current social media trends that may sway sales numbers unpredictably.
