@@ -25,6 +25,7 @@ It covers games up until the release year of 2025.
 | Highest Rated Genre | Lowest Rated Genre |
 | ------------------- | ------------------ |
 | <img width="500" height="590" alt="image" src="assets/HighestRatedGenreBar.png" /> | <img width="500" height="590" alt="image" src="assets/LowestRatedGenreBar.png" /> |
+
 #####*Figure 1: Highest and Lowest Rated Genres on Steam
 These bar charts shows the ranking of both the highest and lowest rated genres judging from their average rating on Steam.
 Genres such as Casual & Indie receive the highest average ratings from players on the platform.*
