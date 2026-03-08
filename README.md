@@ -18,9 +18,18 @@ It covers games up until the release year of 2025.
 
 ---
 
-### Conclusion
+### Insights
 
 #### 1. Genre Performance
+
+| Highest Rated Genre | Lowest Rated Genre |
+| ------------------- | ------------------ |
+| <img width="500" height="590" alt="image" src="assets/HighestRatedGenreBar.png" /> | <img width="500" height="590" alt="image" src="assets/LowestRatedGenreBar.png" /> |
+
+<small>*Figure 1: Highest and Lowest Rated Genres on Steam
+These bar charts shows the ranking of both the highest and lowest rated genres judging from their average rating on Steam.
+Genres such as Casual & Indie receive the highest average ratings from players on the platform.*</small>
+
 * Casual and Indie games hold the **highest average ratings (0.77)**, driven by their easy-to-play, complete experiences.
 * Massively Multiplayer (MMO) games are the **lowest-rated (0.64)**, heavily penalized by players for bugs, server problems, and long-term content droughts.
 * Annualized Sports and Racing franchises **suffer from low ratings**, often review-bombed by players who feel the yearly releases lack meaningful updates.
