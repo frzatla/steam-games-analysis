@@ -26,8 +26,8 @@ Figure 1: Highest and Lowest Rated Genres on Steam
 These bar charts shows the ranking of both the highest and lowest rated genres judging from their average rating on Steam.
 Genres such as Casual & Indie receive the highest average ratings from players on the platform.
 
-<img width="500" height="590" alt="image" src="assets/HighestRatedGenreBar.png" />
-<img width="500" height="590" alt="image" src="assets/LowestRatedGenreBar.png" />
+<img width="500" height="590" alt="image" src="assets/HighestRatedGenreBar.png" style="width: 40%" />
+<img width="500" height="590" alt="image" src="assets/LowestRatedGenreBar.png" style="width: 40%" />
 
 * Casual and Indie games hold the **highest average ratings (0.77)**, driven by their easy-to-play, complete experiences.
 * Massively Multiplayer (MMO) games are the **lowest-rated (0.64)**, heavily penalized by players for bugs, server problems, and long-term content droughts.
