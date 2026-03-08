@@ -36,6 +36,12 @@ Genres such as Casual & Indie receive the highest average ratings from players o
 * While the Action genre has the third-highest volume of releases, its lower average rating suggests the market is **flooded with lower-quality titles** that drag down overall player satisfaction.
 
 #### 2. Optimal Pricing Strategy
+
+| Average Estimated Owners per Price Tier | Average Estimated Revenue per Price Tier |
+| ------------------- | ------------------ |
+| <img width="500" height="590" alt="image" src="assets/AverageEstimatedOwnersSideBySideBar.png" /> | <img width="500" height="590" alt="image" src="assets/AverageEstimatedRevenueSideBySideBar.png" /> |
+
+
 * The $30–$60 tier is the optimal price point for both Indie and AAA studios, generating the **highest average estimated owners and average base revenue**.
 * The vast majority of Indie games are priced under $10, yet this strategy yields the lowest base revenue. Indie developers who price their games in the $30–$60 range **earn nearly three times more on average than those charging $15–$30.**
 * Pushing the price above $60 causes a sharp drop in sales volume, showing that expensive deluxe editions (or overpriced games) rarely make up for the lost buyers.
