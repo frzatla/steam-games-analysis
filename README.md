@@ -18,7 +18,7 @@ It covers games up until the release year of 2025.
 
 ---
 
-### Conclusion
+### Insights
 
 #### 1. Genre Performance
 * Casual and Indie games hold the **highest average ratings (0.77)**, driven by their easy-to-play, complete experiences.
